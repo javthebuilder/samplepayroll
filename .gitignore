@@ -5,3 +5,5 @@
 /.vs/*
 /aspnetapp/bin/*
 /aspnetapp/v17/*
+/aspnetapp/bin/
+/aspnetapp/obj/
