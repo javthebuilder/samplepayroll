@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\javar\\Documents\\samplepayroll\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5FDCC1ED-9F59-47ED-969D-5E463CDD8D52}|aspnetapp\\aspnetapp.csproj|c:\\users\\javar\\documents\\samplepayroll\\aspnetapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FDCC1ED-9F59-47ED-969D-5E463CDD8D52}|aspnetapp\\aspnetapp.csproj|solutionrelative:aspnetapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FDCC1ED-9F59-47ED-969D-5E463CDD8D52}|aspnetapp\\aspnetapp.csproj|c:\\users\\javar\\documents\\samplepayroll\\aspnetapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FDCC1ED-9F59-47ED-969D-5E463CDD8D52}|aspnetapp\\aspnetapp.csproj|solutionrelative:aspnetapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FDCC1ED-9F59-47ED-969D-5E463CDD8D52}|aspnetapp\\aspnetapp.csproj|c:\\users\\javar\\documents\\samplepayroll\\aspnetapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FDCC1ED-9F59-47ED-969D-5E463CDD8D52}|aspnetapp\\aspnetapp.csproj|solutionrelative:aspnetapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FDCC1ED-9F59-47ED-969D-5E463CDD8D52}|aspnetapp\\aspnetapp.csproj|c:\\users\\javar\\documents\\samplepayroll\\aspnetapp\\classes\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FDCC1ED-9F59-47ED-969D-5E463CDD8D52}|aspnetapp\\aspnetapp.csproj|solutionrelative:aspnetapp\\classes\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\javar\\Documents\\samplepayroll\\aspnetapp\\aspnetapp.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:aspnetapp\\aspnetapp.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5FDCC1ED-9F59-47ED-969D-5E463CDD8D52}|aspnetapp\\aspnetapp.csproj|c:\\users\\javar\\documents\\samplepayroll\\aspnetapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5FDCC1ED-9F59-47ED-969D-5E463CDD8D52}|aspnetapp\\aspnetapp.csproj|solutionrelative:aspnetapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -13,18 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5FDCC1ED-9F59-47ED-969D-5E463CDD8D52}|aspnetapp\\aspnetapp.csproj|c:\\users\\javar\\documents\\samplepayroll\\aspnetapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5FDCC1ED-9F59-47ED-969D-5E463CDD8D52}|aspnetapp\\aspnetapp.csproj|solutionrelative:aspnetapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FDCC1ED-9F59-47ED-969D-5E463CDD8D52}|aspnetapp\\aspnetapp.csproj|c:\\users\\javar\\documents\\samplepayroll\\aspnetapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FDCC1ED-9F59-47ED-969D-5E463CDD8D52}|aspnetapp\\aspnetapp.csproj|solutionrelative:aspnetapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FDCC1ED-9F59-47ED-969D-5E463CDD8D52}|aspnetapp\\aspnetapp.csproj|c:\\users\\javar\\documents\\samplepayroll\\aspnetapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5FDCC1ED-9F59-47ED-969D-5E463CDD8D52}|aspnetapp\\aspnetapp.csproj|solutionrelative:aspnetapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FDCC1ED-9F59-47ED-969D-5E463CDD8D52}|aspnetapp\\aspnetapp.csproj|c:\\users\\javar\\documents\\samplepayroll\\aspnetapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5FDCC1ED-9F59-47ED-969D-5E463CDD8D52}|aspnetapp\\aspnetapp.csproj|solutionrelative:aspnetapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FDCC1ED-9F59-47ED-969D-5E463CDD8D52}|aspnetapp\\aspnetapp.csproj|c:\\users\\javar\\documents\\samplepayroll\\aspnetapp\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -42,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,20 +58,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\javar\\Documents\\samplepayroll\\aspnetapp\\Classes\\Person.cs",
+              "RelativeDocumentMoniker": "aspnetapp\\Classes\\Person.cs",
+              "ToolTip": "C:\\Users\\javar\\Documents\\samplepayroll\\aspnetapp\\Classes\\Person.cs*",
+              "RelativeToolTip": "aspnetapp\\Classes\\Person.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T04:25:42.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "aspnetapp.csproj.user",
+              "DocumentMoniker": "C:\\Users\\javar\\Documents\\samplepayroll\\aspnetapp\\aspnetapp.csproj.user",
+              "RelativeDocumentMoniker": "aspnetapp\\aspnetapp.csproj.user",
+              "ToolTip": "C:\\Users\\javar\\Documents\\samplepayroll\\aspnetapp\\aspnetapp.csproj.user",
+              "RelativeToolTip": "aspnetapp\\aspnetapp.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-08-27T03:19:16.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\javar\\Documents\\samplepayroll\\aspnetapp\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "aspnetapp\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\javar\\Documents\\samplepayroll\\aspnetapp\\Properties\\launchSettings.json",
               "RelativeToolTip": "aspnetapp\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-27T03:10:49.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T03:10:49.761Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "EnvironmentInfo.cs",
               "DocumentMoniker": "C:\\Users\\javar\\Documents\\samplepayroll\\aspnetapp\\EnvironmentInfo.cs",
               "RelativeDocumentMoniker": "aspnetapp\\EnvironmentInfo.cs",
@@ -71,12 +104,11 @@
               "RelativeToolTip": "aspnetapp\\EnvironmentInfo.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T03:10:28.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T03:10:28.585Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\javar\\Documents\\samplepayroll\\aspnetapp\\appsettings.json",
               "RelativeDocumentMoniker": "aspnetapp\\appsettings.json",
@@ -84,51 +116,50 @@
               "RelativeToolTip": "aspnetapp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-27T03:10:27.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T03:10:27.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\javar\\Documents\\samplepayroll\\aspnetapp\\Program.cs",
               "RelativeDocumentMoniker": "aspnetapp\\Program.cs",
               "ToolTip": "C:\\Users\\javar\\Documents\\samplepayroll\\aspnetapp\\Program.cs",
               "RelativeToolTip": "aspnetapp\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T03:10:22.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\javar\\Documents\\samplepayroll\\aspnetapp\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "aspnetapp\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\javar\\Documents\\samplepayroll\\aspnetapp\\Pages\\Index.cshtml",
-              "RelativeToolTip": "aspnetapp\\Pages\\Index.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAcwEsAAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\javar\\Documents\\samplepayroll\\aspnetapp\\Pages\\Index.cshtml*",
+              "RelativeToolTip": "aspnetapp\\Pages\\Index.cshtml*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-27T03:10:06.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\javar\\Documents\\samplepayroll\\aspnetapp\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "aspnetapp\\Pages\\Error.cshtml",
-              "ToolTip": "C:\\Users\\javar\\Documents\\samplepayroll\\aspnetapp\\Pages\\Error.cshtml",
-              "RelativeToolTip": "aspnetapp\\Pages\\Error.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\javar\\Documents\\samplepayroll\\aspnetapp\\Pages\\Error.cshtml*",
+              "RelativeToolTip": "aspnetapp\\Pages\\Error.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-27T03:10:03.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\javar\\Documents\\samplepayroll\\aspnetapp\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "aspnetapp\\Pages\\_ViewStart.cshtml",
@@ -136,17 +167,16 @@
               "RelativeToolTip": "aspnetapp\\Pages\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-27T03:10:01.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T03:10:01.928Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "aspnetapp",
+              "DocumentIndex": 9,
+              "Title": "aspnetapp.csproj",
               "DocumentMoniker": "C:\\Users\\javar\\Documents\\samplepayroll\\aspnetapp\\aspnetapp.csproj",
               "RelativeDocumentMoniker": "aspnetapp\\aspnetapp.csproj",
-              "ToolTip": "C:\\Users\\javar\\Documents\\samplepayroll\\aspnetapp\\aspnetapp.csproj",
-              "RelativeToolTip": "aspnetapp\\aspnetapp.csproj",
+              "ToolTip": "C:\\Users\\javar\\Documents\\samplepayroll\\aspnetapp\\aspnetapp.csproj*",
+              "RelativeToolTip": "aspnetapp\\aspnetapp.csproj*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-08-27T03:09:46Z",
