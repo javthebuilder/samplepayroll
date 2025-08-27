@@ -87,9 +87,9 @@ C:\Users\javar\Documents\samplepayroll\aspnetapp\obj\Debug\net9.0\staticwebasset
 C:\Users\javar\Documents\samplepayroll\aspnetapp\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\javar\Documents\samplepayroll\aspnetapp\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\javar\Documents\samplepayroll\aspnetapp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\javar\Documents\samplepayroll\aspnetapp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\javar\Documents\samplepayroll\aspnetapp\obj\Debug\net9.0\aspnetapp.dll
 C:\Users\javar\Documents\samplepayroll\aspnetapp\obj\Debug\net9.0\refint\aspnetapp.dll
 C:\Users\javar\Documents\samplepayroll\aspnetapp\obj\Debug\net9.0\aspnetapp.pdb
 C:\Users\javar\Documents\samplepayroll\aspnetapp\obj\Debug\net9.0\aspnetapp.genruntimeconfig.cache
 C:\Users\javar\Documents\samplepayroll\aspnetapp\obj\Debug\net9.0\ref\aspnetapp.dll
-C:\Users\javar\Documents\samplepayroll\aspnetapp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
